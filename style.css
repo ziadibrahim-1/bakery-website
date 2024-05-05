@@ -1,0 +1,240 @@
+body {
+  margin: 0px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  color: #686868;
+}
+.home-page {
+  background-image: url(drew-coffman-1872.jpg);
+  height: 100vh;
+  background-size: 100% 100%;
+  overflow: auto;
+}
+.home-text{
+  text-align: center;
+  color: aliceblue;
+  margin: 100px;
+  
+}
+div.home-text h1
+{
+  font-size: 50px;
+  margin: 25px 0;
+}
+.heading-logo{
+  width: 13%;
+  margin-top: 15px;
+  float: left;
+}
+div.heading-logo img{
+  width: 100%;
+}
+.heading-list{
+  background-color: #09c;
+  text-align: center;
+}
+div.heading-list ul {
+  float: right;
+  margin-top: 15px;
+  text-align: center;
+}
+div.heading-list ul li
+{
+  list-style-type: none;
+  float: left;
+  padding: 15px;
+}
+div.heading-list ul li a
+{
+  text-decoration: none;
+  color: aliceblue;
+}
+.heading{
+  width: 90%;
+  margin: auto;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+.clr {
+  clear: both;
+}
+
+.button-learn {
+  border: 4px solid transparent;
+  padding: 20px;
+  background-color: #8e7754;
+  border-radius: 8px;
+  margin:30px 0;
+  color: aliceblue;
+}
+.button-contact {
+  border: 1px solid aliceblue;
+  padding: 20px;
+  background: none;
+  border-radius: 8px;
+  margin:30px 0;
+  color: aliceblue;
+}
+
+ul li img {
+  width: 2px;
+} 
+.who-we-are
+{
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+}
+.who-we-are-image
+{
+  width: 50%;
+}
+.who-we-are-image img
+{
+  width: 100%;
+  float: left;
+}
+.who-we-are-text
+{
+  width: 40%;
+  float: right;
+  padding-left: 20px;
+  padding-top: 80px;
+}
+.who-we-are-text h2{
+margin: 30px 0;
+font-weight: bold;
+}
+.who-we-are-text p
+{
+  margin-bottom:20px ;
+  line-height: 30px;
+}
+div.who-we-are div.list ul{
+  float: left;
+}
+div.who-we-are-text li{
+  padding-bottom: 30px;
+  text-align: left;
+}
+.container-baking
+{
+  text-align: center;
+  margin: auto;
+  width: 90%;
+}
+.text-bakin h3 {
+margin: 40px 0;
+}
+.spaces
+{
+  padding-top: 18px;
+}
+div.baking-img
+{
+  float: left;
+  width: 33.3%;
+}
+div.baking-img img
+{
+  width:90% ;
+  margin-top: 25px;
+}
+.text-center
+{
+  text-align: center;
+}
+div.location
+{
+  width: 100%;
+  background-color: #f8f8f8;
+}
+div.container-location
+{
+  padding: 30px 0;
+  width: 90%;
+  margin: auto;
+}
+div.location-text
+{
+  width: 40%;
+  float: left;
+  margin: 40px 0;
+}
+div.location-text h2
+{
+  margin-bottom: 30px ;
+}
+div.location-text p 
+{
+  margin-bottom: 30px ;
+  line-height: 30px;
+}
+div.location-image
+{
+  margin: 40px 0;
+  width: 50%;
+  float: right;
+}
+div.location-image img 
+{
+  width: 100%;
+}
+.Contact-location{
+  width: 40%;
+  float: left;
+  margin: 40px 0;
+  padding: 0 15px;
+  line-height: 30px;
+}
+.Contact-location h2 , p,ul{
+  margin-bottom: 20px;
+  padding-left: 40px;
+  
+}
+.Contact-location li {
+  padding-bottom: 15px;
+}
+.Contact-text{
+  width: 100%;
+  background-color: #686868;
+}
+div.dark-foter{
+  background-color:#403d38 ;
+  
+}
+div.dark-foter p
+{
+  color: #969696;
+}
+div.dark-foter .foter-container{
+  width: 90%;
+  margin: auto;
+}
+.foter-container .About-us,.why-we,.hours,.details
+{
+  float: left;
+  width: 23%;
+  margin: 25px 0;
+}
+h4{
+  color: #fff;
+  padding-bottom: 20px;
+}
+.info{
+  background-color: #353330;
+}
+.info .info-container
+{
+  width: 20%;
+  margin: auto;
+  text-align: center;
+}
+.info .info-container img
+{
+  width: 100%;
+  margin: 40px 0;
+}
